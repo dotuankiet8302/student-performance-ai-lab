@@ -1,0 +1,18 @@
+.venv/
+venv/
+.lab-deps/
+.plot-deps/
+__pycache__/
+*.py[cod]
+.mplconfig/
+.run-backup/
+# Automatically generated synthetic database
+students.db
+students.db-*
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
